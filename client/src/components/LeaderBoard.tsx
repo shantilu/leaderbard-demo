@@ -43,7 +43,7 @@ export const LeaderBoard = ({ usersData }) => (
           </tr>
         </thead>
         <tbody>
-          {usersData.slice(3, 15).map((user, index) => (
+          {usersData.slice(3, 10).map((user, index) => (
             <tr key={user.id}>
               <td>{index + 4}</td>
               <td>{user.username}</td>

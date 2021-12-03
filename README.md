@@ -6,8 +6,6 @@ The simple backend is built with Express. Use concurrent package to run front en
 
 run `npm install` and `cd client` and `npm install` to install the dependencies for front and back end.
 
-run `npm install -g nodemon` to install the nodemon.
-
 ## Available Scripts
 
 In the project directory, you can run:

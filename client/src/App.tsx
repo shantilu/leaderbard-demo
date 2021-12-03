@@ -53,8 +53,8 @@ function App() {
   return (
     <div className="darker">
       <div className="container">
-        <h2>Biggest Winnder Contest</h2>
-        <h3>LeaderBoard</h3>
+        <h2>Biggest Winner Contest</h2>
+        <h3>Realtime LeaderBoard</h3>
         <hr />
         <div>
           {usersData && usersData.length && !preparing && (
